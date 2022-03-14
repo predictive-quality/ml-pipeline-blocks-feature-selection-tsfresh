@@ -1,0 +1,8 @@
+--input_path=./example
+--output_path=./example
+--stage=select
+--stage_config=transform
+--config_filename=selection.json
+--filename_x=x_test.fth
+--filename_y=y_test.fth
+--n_jobs=0
